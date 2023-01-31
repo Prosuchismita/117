@@ -1,0 +1,17 @@
+body{
+    color: pink;
+}
+
+.Score{
+    font-size: large;
+    float: left;
+    margin: 50px;
+}
+.Time{
+    font-size: large;
+    float: right;
+    margin: 50px;
+}
+.Sketch_to_be_drawn{
+    color: red;
+}
